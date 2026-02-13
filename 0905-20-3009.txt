@@ -1,0 +1,11 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+Aprendí que Git me permite guardar los cambios que hago en un proyecto paso a paso. También aprendí a crear ramas para trabajar en cambios sin afectar la versión principal y después unir esos cambios a la rama main. GitHub me sirve para guardar el proyecto en internet y tener respaldo.
+
+¿Cómo fue la experiencia? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+
+La experiencia fue buena porque entendí mejor cómo funciona el control de versiones. No tuve conflictos, pero aprendí que si ocurre uno, se debe revisar el archivo, corregirlo manualmente y luego guardar los cambios nuevamente.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+Creo que usar Git es útil porque permite no perder el trabajo, organizar los cambios y tener un historial de todo lo que se ha hecho en el proyecto.
